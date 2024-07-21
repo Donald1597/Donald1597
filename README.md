@@ -38,7 +38,8 @@ I'm Donald APOVO, a passionate Laravel and Vue.js developer from Benin.
 ## 📈 GitHub Stats
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Donald1597&show_icons=true&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Donald1597&theme=dark)
-
+![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Donald1597&amp;theme=dracula&amp;hide_langs_below=1)
+![Visitor](https://pageview.vercel.app/?github_user=Donald1597)
 
 ## 🎨 Creativity and Fun
 ![Coding GIF](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)

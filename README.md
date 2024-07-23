@@ -35,22 +35,17 @@ I'm Donald APOVO, a passionate Laravel and Vue.js developer from Benin.
 - **IDEs**: Visual Studio Code
 - **Other**: Docker, Composer, NPM/Yarn
 
-## Recent Public Projects
+## ![Recent Projects Badge](https://img.shields.io/badge/Recent%20Public%20Projects-Showcase-blue)
 
-### [Age Calculator](https://donald1597.github.io/age-calculator/)
-A simple age calculator that allows users to input their birthdate and calculate their age.
+- **Age Calculator**: A simple age calculator that allows users to input their birthdate and calculate their age. [View Project](https://donald1597.github.io/age-calculator/)
 
-### [My Time Tracker](https://donald1597.github.io/my-time-tracker/)
-A time tracking application that helps users track and manage their time spent on tasks.
+- **My Time Tracker**: A time tracking application that helps users track and manage their time spent on tasks. [View Project](https://donald1597.github.io/my-time-tracker/)
 
-### [Africa Quiz App](https://donald1597.github.io/africa-quiz-app/)
-An interactive quiz app focused on African geography and trivia.
+- **Africa Quiz App**: An interactive quiz app focused on African geography and trivia. [View Project](https://donald1597.github.io/africa-quiz-app/)
 
-### [Image Gallery](https://donald1597.github.io/image-gallery/)
-A Vue.js image gallery where users can upload and view images in a grid.
+- **Image Gallery**: A Vue.js image gallery where users can upload and view images in a grid. [View Project](https://donald1597.github.io/image-gallery/)
 
-### [Weather App](https://donald1597.github.io/vue-weather-app/)
-A weather application built with Vue.js that provides weather forecasts based on user location.
+- **Weather App**: A weather application built with Vue.js that provides weather forecasts based on user location. [View Project](https://donald1597.github.io/vue-weather-app/)
 
 
 ## 📈 GitHub Stats

@@ -35,6 +35,24 @@ I'm Donald APOVO, a passionate Laravel and Vue.js developer from Benin.
 - **IDEs**: Visual Studio Code
 - **Other**: Docker, Composer, NPM/Yarn
 
+## Recent Public Projects
+
+### [Age Calculator](https://donald1597.github.io/age-calculator/)
+A simple age calculator that allows users to input their birthdate and calculate their age.
+
+### [My Time Tracker](https://donald1597.github.io/my-time-tracker/)
+A time tracking application that helps users track and manage their time spent on tasks.
+
+### [Africa Quiz App](https://donald1597.github.io/africa-quiz-app/)
+An interactive quiz app focused on African geography and trivia.
+
+### [Image Gallery](https://donald1597.github.io/image-gallery/)
+A Vue.js image gallery where users can upload and view images in a grid.
+
+### [Weather App](https://donald1597.github.io/vue-weather-app/)
+A weather application built with Vue.js that provides weather forecasts based on user location.
+
+
 ## 📈 GitHub Stats
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Donald1597&show_icons=true&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Donald1597&theme=dark)

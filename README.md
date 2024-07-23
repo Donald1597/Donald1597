@@ -47,6 +47,8 @@ I'm Donald APOVO, a passionate Laravel and Vue.js developer from Benin.
 
 5. [**Weather App**](https://donald1597.github.io/vue-weather-app/): A weather application built with Vue.js that provides weather forecasts based on user location.
 
+6. [**Disk Usage Dashboard**](https://github.com/Donald1597/disk-usage): A Laravel package for monitoring and managing disk usage of your project or website.
+
 
 
 ## 📈 GitHub Stats

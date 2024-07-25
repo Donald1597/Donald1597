@@ -49,6 +49,8 @@ I'm Donald APOVO, a passionate Laravel and Vue.js developer from Benin.
 
 6. [**Disk Usage Dashboard**](https://github.com/Donald1597/disk-usage): A Laravel package for monitoring and managing disk usage of your project or website.
 
+7. [**Form repeater**](https://donald1597.github.io/form-repeater/): Example of form repeater and dynamique field creation built with Vue.js 
+
 
 
 ## 📈 GitHub Stats

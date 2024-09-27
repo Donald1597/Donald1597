@@ -5,9 +5,9 @@ I'm Donald APOVO, a passionate Laravel and Vue.js developer from Benin.
 [![trophy](https://github-profile-trophy.vercel.app/?username=Donald1597&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🚀 About Me
-- 🌱 I’m currently learning new technologies 
-- 👯 I’m looking to collaborate on Interesting projects or open-source work
-- 💬 Ask me about Laravel, Vue.js, Tailwind CSS, and JavaScript
+- 🌱 I’m currently expanding my skills with the latest technologies.
+- 👯 I’m open to collaborating on exciting projects and contributing to open-source initiatives.
+- 💬 Feel free to ask me about Laravel, Vue.js, Tailwind CSS, or JavaScript!
   
 ## 🛠️ Skills
 - **Languages & Frameworks**: 
@@ -29,11 +29,15 @@ I'm Donald APOVO, a passionate Laravel and Vue.js developer from Benin.
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00C58E?style=for-the-badge&logo=nuxt.js&logoColor=white)
+
 
 ## 🔧 Tools
 - **Version Control**: Git, GitHub
 - **IDEs**: Visual Studio Code
-- **Other**: Docker, Composer, NPM/Yarn
+- **Package Managers**: NPM, Yarn, Composer
+- **Containerization**: Docker
 
 ## ![Recent Public Projects Badge](https://img.shields.io/badge/Recent%20Public%20Projects-Showcase-blue)
 
@@ -56,8 +60,11 @@ I'm Donald APOVO, a passionate Laravel and Vue.js developer from Benin.
 ## 📈 GitHub Stats
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Donald1597&show_icons=true&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Donald1597&theme=dark)
-![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Donald1597&amp;theme=dracula&amp;hide_langs_below=1)
-![Visitor](https://pageview.vercel.app/?github_user=Donald1597)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Donald1597&amp;theme=dracula&amp;hide_langs_below=1)
+![Visitor Count](https://pageview.vercel.app/?github_user=Donald1597)
+
+### 📊 Contribution Graph
+![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Donald1597&theme=dracula)
 
 ## 🎨 Creativity and Fun
 ![Coding GIF](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)

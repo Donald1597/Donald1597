@@ -2,7 +2,7 @@
 
 I'm Donald APOVO, a passionate Laravel and Vue.js developer from Benin.
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Donald1597&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Donald1597&title=-Issues,-Reviews&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🚀 About Me
 - 🌱 I’m currently expanding my skills with the latest technologies.

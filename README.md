@@ -61,17 +61,9 @@ I'm Donald APOVO, a passionate Laravel and Vue.js developer from Benin.I'm Donal
 ## 📈 GitHub Stats
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Donald1597&show_icons=true&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Donald1597&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Donald1597&amp;theme=dracula&amp;hide_langs_below=1)
-![Visitor Count](https://pageview.vercel.app/?github_user=Donald1597)
-
-## 📈 GitHub Stats
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Donald1597&show_icons=true&theme=radical&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Donald1597&theme=dark&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Donald1597&theme=dracula&hide_border=true&layout=compact)
 ![Visitor Count](https://pageview.vercel.app/?github_user=Donald1597)
 
-### 📊 Contribution Graph
-[![Donald's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Donald1597&theme=vue)](https://github.com/donald1597/github-readme-activity-graph)
 
 ### 📊 Contribution Graph
 [![Donald's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Donald1597&theme=github-dark)](https://github.com/donald1597/github-readme-activity-graph)
@@ -86,10 +78,6 @@ I'm Donald APOVO, a passionate Laravel and Vue.js developer from Benin.I'm Donal
 > "First, solve the problem. Then, write the code." - John Johnson
 > "Keep learning, keep building, and keep growing." - Donald APOVO
 
-## 🔗 Connect with me
-- [LinkedIn](https://www.linkedin.com/in/donaldapovo)
-- [Twitter](https://twitter.com/Dnld_Csnv)
-- [Email](mailto:apovodonald@gmail.com)
 
 ## 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/donaldapovo)

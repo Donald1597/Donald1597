@@ -10,11 +10,6 @@ I'm Donald APOVO, a passionate Laravel and Vue.js developer from Benin.I'm Donal
 - 💬 Feel free to ask me about **Laravel**, **Vue.js**, **Tailwind CSS**, or **JavaScript**!
 - 🎯 Goal: To build impactful solutions that make people's lives easier.
   
-## 🛠️ Skills
-- **Frontend**: Vue.js, Nuxt.js, React, JavaScript, HTML, CSS, Tailwind CSS
-- **Backend**: Laravel, PHP, REST APIs, GraphQL
-- **Tools & DevOps**: Docker, Git, GitHub, Vite, Composer, NPM, Yarn
-- **Other**: Luxon (date manipulation), Testing (PHPUnit, Jest)
 
 ## ⚙️ Tech Stack
 ### Frontend
@@ -29,6 +24,8 @@ I'm Donald APOVO, a passionate Laravel and Vue.js developer from Benin.I'm Donal
 ### Backend
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-FF6F61?style=for-the-badge&logo=rest&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 ## 🔧 Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 

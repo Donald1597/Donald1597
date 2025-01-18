@@ -25,6 +25,7 @@ I'm Donald APOVO, a passionate Laravel and Vue.js developer from Benin.I'm Donal
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-FF6F61?style=for-the-badge&logo=rest&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
 ## 🔧 Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
